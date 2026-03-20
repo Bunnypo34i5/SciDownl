@@ -1,0 +1,404 @@
+# Unavailable PDFs
+
+- **The effect of 12-months of intensive lifestyle intervention on serum biomarkers of hepatic steatosis, inflammation and fibrosis in adults with type 2 diabetes** | DOI: `10.1002/hep.25762`
+- **Triple Therapy with Exenatide/Pioglitazone/Metformin vs. Conventional Therapy: Changes in Liver Fibrosis Scores after 2 Years of Treatment in Patients with New-Onset Type 2 Diabetes Mellitus** | DOI: `10.1016/j.metabol.2019.12.057`
+- **1047 hanges in Liver Fibrosis Scores in Patients With New Onset Type 2 Diabetes on Triple Therapy With Exenatide/Pioglitazone/Metformin vs. Conventional Therapy: Year Two Results** | DOI: `10.3803/enm.2015.30.1.84`
+- **265 8-Year Effects of Lifestyle Intervention on Kidney Outcomes Adjusting for Time-Updated Lean Mass** | DOI: `10.1093/ageing/afq034`
+- **The 10-Year Effects of Lifestyle Modifications on Kidney Outcomes** | DOI: `10.1093/eurheartj/eht151`
+- **RANDOMIZED STUDY ON GLUCOSE AND LIPID METABOLIC PARAMETERS IN TYPE-II DIABETICS BY MULTISTRAIN PROBIOTIC SUPPLEMENTATION** | DOI: `10.1136/bmjopen-2017-017995`
+- **Comparative Evaluation of Oral Hypoglycemic Agents in Type 2 Diabetes Along with Six Months of Lifestyle Modification** | DOI: `10.2337/dc10-9990`
+- **Experience with Lispro-insulin in the intensified therapy of IDDM and NIDDM patients. \[German\]** | DOI: `10.2337/diacare.28.12.2948`
+- **Effect of dapagliflozin in patients with diabetes and heart failure with mildly reduced or preserved ejection fraction according to background glucose-lowering therapy: A pre-specified analysis of the DELIVER trial** | DOI: `10.1002/ejhf.3269`
+- **Associations between physical fitness and HbA 1c in type 2 diabetes mellitus** | DOI: `10.1093/eurheartj/eht151`
+- **Lack of the effect of gliclazide on the platelet aggregation in insulin-treated and non-insulin-treated diabetes: A two-year controlled study** | DOI: `10.1016/s0168-8227(88)80001-9`
+- **Efficacy and safety of the use of metformin in patients with chronic heart failure and type 2 diabetes mellitus. results of the study \"rational effective mulicomponent therapy in the battle against diabetes mellitus in patients with chronic heart failure\". \[Russian\]** | DOI: `10.1177/1479164115590324`
+- **Starting an insulin regimen with insulin lispro mix 25 versus glargine insulin for type 2 diabetes** | DOI: `10.1007/s40278-025-75480-8`
+- **Metformin associated with lower cancer mortality in type 2 diabetes: ZODIAC-16** | DOI: `10.1016/s0084-3741(10)79600-1`
+- **Responses to Basal Insulin Glargine (300 U/mL and 100 U/mL) with or Without Pre-prandial Insulin in Pre-treated Subphenotypes of Type 2 Diabetes: Insights from a Post Hoc Analysis** | DOI: `10.1007/s13300-024-01608-4`
+- **Effect of lipoic acid and of vitamin E on diabetic polyneuropathy: statistic analysis** | DOI: `10.1038/s41572-019-0092-1`
+- **Survival and clinical outcomes of diabetic peripheral artery disease patients following a pain-free homebased walking program** | DOI: `10.1161/cir.0000000000001005`
+- **Wcn23-1030 Effects of Atrasentan on Markers of Liver Function in Patients with Type 2 Diabetes and Chronic Kidney Disease** | DOI: `10.1016/j.ekir.2023.02.453`
+- **Improving glycaemic and BP control in type 2 diabetes - The effectiveness of tai chi** | DOI: `10.1186/isrctn18233037`
+- **1275 Gut Virome Associated with Improved Atherogenic Lipoprotein and Liver Steatosis after Fecal Microbiota Transplantation in Obese Subjects with Type 2 Diabetes** | DOI: `10.1016/s0016-5085(24)01182-x`
+- **iGlarLixi versus premixed insulin initiation in adults with type 2 diabetes advancing from basal insulin therapy: The SoliComplex real-world study** | DOI: `10.1111/dom.14974`
+- **Metabolic and dietary variables associated with glycaemic control in patients with recently diagnosed Type II diabetes mellitus** | DOI: `10.1093/eurheartj/eht151`
+- **A pilot study of empagliflozin for the treatment of non-alcoholic steatohepatitis in patients with type 2 diabetes mellitus** | DOI: `10.1016/s0168-8278(18)30438-0`
+- **Mortality and cardiovascular events in diabetes mellitus patients at dialysis initiation treated with glucagon-like peptide-1 receptor agonists** | DOI: `10.1186/s12933-024-02364-2`
+- **Positive effect of the PPAR-gamma agonist rosiglitazone on hemodynamic response to exercise in type 2 diabetic men after coronary artery bypass graft surgery: a 1-yr randomized study** | DOI: `10.1016/j.cjca.2016.07.356`
+- **Guar gum in non-insulin-dependent diabetes mellitus: A double-blind crossover, placebo-controlled trial in Saudi Arabian patients** | DOI: `10.5144/0256-4947.1990.525`
+- **Feasibility Study of a Randomized Controlled Trial Protocol to Examine the Effectiveness of Auriculotherapy (AT) in Improving Sleep Condition and Glycaemic Control in Clients with Type 2 Diabetes** | DOI: `10.3389/fpubh.2024.1410843`
+- **Efficacy and safety of enavogliflozin, a novel SGLT2 inhibitor, in Korean people with type 2 diabetes: A 24-week, multicentre, randomized, double-blind, placebo-controlled, phase III trial** | DOI: `10.1111/dom.15046`
+- **Vildagliptin reduces plasma stromal cell-derived factor-1alpha in patients with type 2 diabetes compared with glimepiride** | DOI: `10.1038/s41598-019-49803-9`
+- **The role of sitagliptin in the treatment of type 2 diabetes based on the results of the TECOS study** | DOI: `10.1056/nejmoa1501352`
+- **Metformin regulates glycemic homeostasis in patients with type 2 diabetes mellitus as an NO donor. \[Russian\]** | DOI: `10.1210/er.2017-00192`
+- **Effects of Multisensory Training on Balance and Gait in Persons with Type 2 Diabetes: A Randomised Controlled Trial** | DOI: `10.5463/dcid.v24i2.206`
+- **Glucose lowering effect of pioglitazone may be mediated through increased insulin levels as well as decreased insulin resistance** | DOI: `10.1097/hep.0000000000000323`
+- **Assessment of efficacy and safety of glimepiride-metformin versus glibenclamide-metformin combination in type-2 diabetics uncontrolled with metformin alone** | DOI: `10.2337/dc14-2441`
+- **Sodium-glucose Cotransporter-2 Inhibitors Stabilize Coronary Plaques in Acute Coronary Syndrome with Diabetes Mellitus** | DOI: `10.1016/j.amjcard.2023.12.056`
+- **Clinical study of insulin secretagogues in Japanese patients with type 2 diabetes: One-year comparison between the dipeptidyl peptidase 4 inhibitor sitagliptin and the sulfonylurea glimepiride. \[Japanese\]** | DOI: `10.1002/dmrr.2827`
+- **\[Op.4a.09\] the Effect of the Glucagon-Like Peptide-1 Receptor Agonist Liraglutide on 24-H Blood Pressure Variation** | DOI: `10.1097/01.hjh.0000491445.66874.a8`
+- **Assessment of Effect of Teneligliptin Vs Metformin on Glycemic Control in Patients with Type 2 Diabetes Mellitus at a Tertiary Centre in Bihar** | DOI: `10.3389/fendo.2023.1282584`
+- **Comparative Study of Effect of Dpp-4 Inhibitors and Sglt-2 Inhibitors on Lipid Profile in Patients with Type 2 Diabetes Mellitus** | DOI: `10.2337/dci18-0033`
+- **Troglitazone, an insulin action enhancer, improves metabolic central in NIDDM patients** | DOI: `10.1161/circulationaha.105.169404`
+- **Efficacy and safety of glimepiride-metformin versus glibenclamide-metformin combination in type II diabetics uncontrolled with metformin alone at a tertiary centre** | DOI: `10.1136/bmj.g2366`
+- **Comparative Study of Voglibose Versus Linagliptin on Glycaemic Control NAD Lipid Profile in Patient of Type 2 Diabetes Mellitus** | DOI: `10.1186/s12933-018-0763-3`
+- **A Comparison of the Effectiveness and Safety of Glimepiride with Sitagliptin in Patients with Type 2 Diabetes Mellitus** | DOI: `10.2337/dc08-9025`
+- **Head-To-Head Comparison of Acarbose and Voglibose as Add-On Therapy to Metformin in Patients with Type 2 Diabetes** | DOI: `10.2337/dc10-s011`
+- **To study the effect of combination of metformin, glimepride voglibose in tcf7l2 gene associated type 2 diabetes mellitus** | DOI: `10.5414/cp202197`
+- **Saxagliptin as initial therapy in treatment-naive Indian adults with type 2 diabetes mellitus inadequately controlled with diet and exercise alone: a randomized, double-blind, placebo-controlled, phase IIIb clinical study** | DOI: `10.1007/s13410-014-0191-1`
+- **Efficacy and Safety of Lobeglitazone versus Pioglitazone as Add on Therapy to Metformin and Vildagliptin in Patients of Type 2 Diabetes Mellitus: A Randomised Controlled Trial** | DOI: `10.47583/ijpsrr.2024.v84i03.022`
+- **Impact of Intermittent Fasting on Glycemic Control and Cardiovascular Risk Factors in Type 2 Diabetes: a Randomized Controlled Trial** | DOI: `10.1016/j.jcjd.2017.10.008`
+- **Empagliflozin therapy for type 2 diabetes: viewing possible benefits in relative and absolute terms** | DOI: `10.1016/j.clinthera.2017.05.065`
+- **MEDIAS II: results of an out-patient therapy comparative study on \"behavioural medical prevention and therapy of type 2 diabetes\"** | DOI: `10.1016/s0140-6736(25)02005-7`
+- **Effect of one year of yoga therapy on glycemic control among patients with Type 2 diabetes mellitus: A randomized controlled trial** | DOI: `10.2337/dci18-0033`
+- **Evaluate the Effect of Yoga Therapy on Reaction Time, Biochemical Parameters and Wellness Score of Peri and Post-Menopausal Diabetic Patients** | DOI: `10.4196/kjpp.2012.16.3.175`
+- **Improved treatment satisfaction with onceweekly insulin icodec versus once-daily insulin degludec in basal insulin-treated type 2 diabetes (ONWARDS 2)** | DOI: `10.1111/dom.14871`
+- **Effect of Empagliflozin on Liver Fat in Patients With Type 2 Diabetes and Nonalcoholic Fatty Liver Disease: A Randomized Controlled Trial (E-LIFT Trial)** | DOI: `10.2337/dc18-0165`
+- **Effect of dulaglutide on liver fat in patients with type 2 diabetes and NAFLD: randomised controlled trial (D-LIFT trial)** | DOI: `10.1007/s00125-020-05265-7`
+- **Evaluation of protective effect of antioxidant vitamins in patients with diabetic nephropathy** | DOI: `10.1152/physrev.00029.2006`
+- **Effect of troglitazone on the proinsulin level in patients with type 2 diabetes mellitus: A pilot study** | DOI: `10.1016/s0011-393x(99)80011-3`
+- **Effects of troglitazone on coagulation-fibrinolysis abnormalities in patients with type II diabetes mellitus** | DOI: `10.1016/s0011-393x(98)85093-5`
+- **The observation of qi-supplementing, yin-nourishing, blood-activating and collateral-dredging therapy with hypoglycemic treatment treating early diabetic nephropathy** | DOI: `10.1155/2016/1081657`
+- **Effects of Aerobic Exercise Intensity on Insulin Resistance in Patients with Type 2 Diabetes Mellitus** | DOI: `10.4093/kdj.2009.33.5.401`
+- **Long-Term Effectiveness of Quadruple Combination Therapy with Empagliflozin Versus Basal Long-Acting Insulin Therapy in Patients with Type 2 Diabetes: 3-Year Retrospective Observational Study** | DOI: `10.1007/s13300-023-01437-x`
+- **The clinical study to evaluate the safety and efficacy of D-chiro-inositol in patients with type 2 diabetes** | DOI: `10.1155/2016/9132052`
+- **Albiglutide and Atrial Fibrillation/Atrial Flutter in Patients with Type 2 Diabetes and Established Cardiovascular Disease - a Secondary Analysis of the Harmony Outcomes Trial** | DOI: `10.1016/s0735-1097(24)03878-6`
+- **Albiglutide and atrial fibrillation in patients with type 2 diabetes and established cardiovascular disease - insights from the Harmony Outcomes trial** | DOI: `10.1093/eurjpc/zwae379`
+- **Effect of Vitamin D Supplementation on Glycemic Control in Patients With Type 2 Diabetes (SUNNY Trial): A Randomized Placebo-Controlled Trial** | DOI: `10.2337/dc15-0323`
+- **Effects of Low dose Omega-3 Fatty Acids on Platelet Functions and Coagulation Profile in Indian Patients with Type 2 Diabetes Mellitus with Vascular complications: a Prospective, Preliminary Study** | DOI: `10.1161/circulationaha.105.169404`
+- **Insulin glargine and oral anti-diabetic agents: A sound start to insulin therapy. \[German\]** | DOI: `10.1016/j.diabres.2012.10.001`
+- **PDB5 Micro- and Macrovascular Outcomes in Primary Care Patients with Type 2 Diabetes Treated with Insulin Glulisine or Human Regular Insulin: A Retrospective German Database Analysis** | DOI: `10.1016/j.jval.2011.08.1308`
+- **Éude de la saxagliptine sur la survenue d'ééements cardiovasculaires chez des patients diabéiques de type 2 (éude SAVOR-TIMI 53) : description de l'éude et des patients** | DOI: `10.1016/s1957-2557(13)70594-7`
+- **Behavioral Medicine, Clinical Nutrition, Education, and Exercise** | DOI: `10.2337/db13-680-858`
+- **The impact of metformin on metabolic control in obese type 2 diabetic patients treated with insulin. Preliminary observation** | DOI: `10.1503/cmaj.051351`
+- **Effect of diabetes medications and glycemic control on risk of hepatocellular cancer in patients with nonalcoholic fatty liver disease** | DOI: `10.1002/hep.32244`
+- **Can improvements in cardiac and vascular hemodynamic markers explain the kidney benefit with empagliflozin in the EMPA-REG OUTCOME®trial** | DOI: `10.2337/db18-1173-p`
+- **Evaluation of the LINDA Diabetes Self-Management Education Program. \[German\]** | DOI: `10.1016/s0140-6736(18)31310-2`
+- **Comparison of long-term data on cardiovascular outcomes in patients with type 2 diabetes receiving liraglutide with estimates based on risk factors** | DOI: `10.1002/hep.29367`
+- **Cardiorenal Outcomes With Finerenone in Asian Patients With CKD and Type 2 Diabetes: post Hoc Analysis From FIDELIO-DKD** | DOI: `10.1681/asn.20223311s1678b`
+- **Empagliflozin (EMPA) for ≥6 weeks as add-on to pioglitazone with or without metformin in patients with type 2 diabetes (T2DM)** | DOI: `10.1093/eurheartj/ehz486`
+- **Multicentric clinical trial to assess efficacy and tolerability of acarbose (BAY G 5421) in comparison to glibenclamide and placebo** | DOI: `10.1016/s0002-9343(99)80343-x`
+- **Posters: T5-Clinical Practice and Multi Disciplinary Management** | DOI: `10.1159/000258190`
+- **Qualitative and quantitative effect of ideglira compared with the nonfixed administration of degludec and liraglutide** | DOI: `10.2337/db18-1104-p`
+- **Effects of the six months of programmed exercise therapy on cardio-respiratory endurance and neurophysiological variables in asymptomatic young adults diagnosed newly with type 2 diabetes mellitus - a randomized controlled trial** | DOI: `10.3390/diagnostics11061089`
+- **Effects of structured exercise therapy on ulnar nerve conduction velocity in asymptomatic young patients with newly diagnosed T2 DM a randomized controlled study** | DOI: `10.3233/jnd-219006`
+- **Health-related quality-of-life results from multinational clinical trials of insulin lispro: Assesing benefits of a new diabetes therapy** | DOI: `10.2337/diacare.20.6.948`
+- **The efficacy of cocarnit in diabetic neuropathy. \[Russian\]** | DOI: `10.17116/jnevro20181181137-42`
+- **The effect of exenatide once-weekly on carotid atherosclerosis and endothelial function in persons with type 2 diabetes: an 18-month randomized placebo-controlled study** | DOI: `10.2337/figshare.13281389`
+- **Glycaemic control, risk of hypoglycaemia and all-cause mortality in new users of second-generation basal insulin with type 2 diabetes and chronic kidney disease: a nationwide register-based cohort study** | DOI: `10.1007/s00125-023-05971-y`
+- **Semaglutide in Patients with Obesity-Related Heart Failure and Type 2 Diabetes** | DOI: `10.1056/nejmoa2313917`
+- **Efficacy and safety of dapagliflozin in patients with type 2 diabetes mellitus (T2DM) and concomitant heart failure** | DOI: `10.1161/circulationaha.120.045888`
+- **Comparing the effects of ipragliflozin and metformin on visceral fat reduction in patients with type 2 diabetes inadequately controlled with sitagliptin-a prospective, multicenter, blinded-endpoint, randomized controlled study in Japan (prime-v study)** | DOI: `10.2337/db18-257-or`
+- **Comparing the effects of ipragliflozin versus metformin on visceral fat reduction and metabolic dysfunction in Japanese patients with type 2 diabetes treated with sitagliptin: A prospective, multicentre, open-label, blinded-endpoint, randomized controlled study (PRIME-V study)** | DOI: `10.1111/dom.13750`
+- **Effect of Canagliflozin on Markers of Hepatic Steatosis and Fibrosis in Patients With Type 2 Diabetes and CKD** | DOI: `10.1681/asn.20223311s1673c`
+- **Iron Biomarkers and Effects of Canagliflozin in Patients with Type 2 Diabetes and CKD: a Post Hoc Analysis of the CREDENCE Trial** | DOI: `10.1681/asn.20233411s1140c`
+- **Effect of SGLT-2 inhibitors to proximal tubular function and injury in patients with type 2 diabetes: a randomized controlled trial** | DOI: `10.1159/000350152`
+- **Periodized exercise performed in aquatic or dry land environments improves circulating reactive species and 8-isoprostane levels without any impact on total antioxidant capacity in patients with type 2 diabetes mellitus** | DOI: `10.1016/j.obmed.2019.100102`
+- **Role of standard test meal in initiation of insulin therapy in type 2 diabetes. \[Serbian\]** | DOI: `10.1093/eurheartj/ehy339`
+- **406-P: Effect of Metformin on Dicarbonyl Stress in Patients with Type 2 Diabetes and Chronic Heart Failure** | DOI: `10.2337/db19-406-p`
+- **Improved endothelial function with metformin in type 2 diabetes mellitus** | DOI: `10.1016/s0735-1097(01)01129-9`
+- **Compare the efficacy and safety of dipeptidyl peptidase-4 inhibitors with other oral hypoglycemic agents in type 2 diabetes mellitus patients** | DOI: `10.2337/dc08-9025`
+- **Comparative study of oral hypoglycemic agents in type-2 diabetes obese patients** | DOI: `10.22159/ajpcr.2018.v11i6.25264`
+- **Secondary failure of troglitazone in type 2 diabetic patients and its predictive factors. \[Japanese\]** | DOI: `10.1161/circulationaha.105.169404`
+- **A Randomized Crossover Study Comparing the Effects of Diabetes-Specific Formula with Common Asian Breakfasts on Glycemic Control and Satiety in Adults with Type 2 Diabetes Mellitus** | DOI: `10.3390/diabetology5040033`
+- **Calisthenics Exercises to Intervene in Obesity and Diabetes in Middle-Aged People** | DOI: `10.1590/1517-8692202228022021_0457`
+- **Clinical study on the treatment of islet beta cell failure type 2 diabetes with insulin lysine combined with insulin glulisine** | DOI: `10.1007/s13300-019-00743-7`
+- **Clinical study on the treatment of islet βcell failure type 2 diabetes with insulin lysine combined with insulin glulisine** | DOI: `10.1111/ped.13271`
+- **Effects of dulaglutide and trelagliptin on beta-cell function in patients with type 2 diabetes: a randomized controlled study: DUET-beta study** | DOI: `10.1007/s13340-024-00717-6`
+- **Effects of dulaglutide and trelagliptin on beta-cell function in patients with type 2 diabetes-the duet-beta study** | DOI: `10.1007/s13340-024-00717-6`
+- **A hierarchical kidney outcome using win statistics in patients with heart failure from the DAPA-HF and DELIVER trials** | DOI: `10.1038/s41591-024-02941-8`
+- **Patient Characteristics, Outcomes, and Effects of Dapagliflozin According to the Duration of Heart Failure: A Prespecified Analysis of the DELIVER Trial** | DOI: `10.1161/circulationaha.122.062918`
+- **Effect of long-term intake of Asian food with different glycaemic indices on diabetic control and protein conservation in type 2 diabetic patients** | DOI: `10.1007/s00125-009-1395-7`
+- **Effects of once-weekly semaglutide on coronary outcomes in patients with type 2 diabetes mellitus with or at high risk for cardiovascular disease: insights from the SUSTAIN-6 trial** | DOI: `10.1093/eurjpc/zwac056.042`
+- **Advantage of prandial insulin as a therapeutic approach in initial secondary pancreatic beta-cell exhaustion in type 2 diabetic patients** | DOI: `10.1136/bmj.e1771`
+- **Advantage of prandial insulin as a therapeutic approach in initial secondary pancreatic βcell exhaustion in type 2 diabetic patients** | DOI: `10.1007/bf00257727`
+- **Initiating or switching to IDegAsp in a real-world South African population with type 2 diabetes - a cohort analysis from the ARISE study** | DOI: `10.1080/16089677.2023.2198348`
+- **SGLT2 inhibitors compared with other glucose-lowering drugs in Japan: Subanalyses of the CVD-REAL 2 Study** | DOI: `10.1111/dom.14189`
+- **Predictors of Atrasentan-Associated Fluid Retention and Change in Albuminuria in Patients with Diabetic Nephropathy** | DOI: `10.2215/cjn.00570115`
+- **Efficacy and safety of dapagliflozin in patients with type 2 diabetes and moderate renal impairment** | DOI: `10.1111/dom.13413`
+- **Cost effectiveness of an early basal supported oral therapy (BOT) with insulin glargine compared to an escalation therapy with DPP-4 inhibitors in patients with type 2 diabetes under real-life conditions in Germany. \[German\]** | DOI: `10.1016/s1098-3015(10)75016-6`
+- **Effects of once-weekly semaglutide on major adverse cardiovascular events in patients with type 2 diabetes and polyvascular disease: a post hoc analysis of the SUSTAIN 6 trial** | DOI: `10.1093/eurheartj/ehad655.2568`
+- **Strength training is more effective than aerobic exercise for improving glycaemic control and body composition in people with normal-weight type 2 diabetes: a randomised controlled trial** | DOI: `10.1007/s00125-023-05958-9`
+- **48-week randomized multicenter open-label parallel group phase 3 trial to compare insulin detemir and NPH insulin efficacy and safety in subjects with insulin requiring diabetes mellitus in a basal-bolus regimen** | DOI: `10.2337/dci18-0033`
+- **Phase 3 clinical trial of insulin detemir for type 2 diabetes patients with insufficient blood sugar control in oral diabetes drug therapy** | DOI: `10.2337/dc09-9029`
+- **Clinical comparison of tofogliflozin and empagliflozin based on an analysis of 24-h accumulated urine in Japanese patients with type 2 diabetes mellitus** | DOI: `10.1016/j.obmed.2019.100088`
+- **Use of acarbose or bedtime insulin after failure of treatment with conventional oral antidiabetics: A one-year randomised clinical trial** | DOI: `10.2337/dc10-s011`
+- **Effects of hypoglycemic agents on vascular complications in patients with adult-onset diabetes. VIII. Evaluation of insulin therapy: Final report** | DOI: `10.1001/jama.1971.03190060017005`
+- **Use of incretin agents and risk of pancreatic cancer, a poputation-based cohort study. \[German\]** | DOI: `10.1111/dom.12605`
+- **Indicators of biochemical control of diabetes mellitus during limited availability of health service in the context of hypoglycemic therapy** | DOI: `10.36740/wlek202407103`
+- **Metformin Versus Insulin and Risk of Major Congenital Malformations in Pregnancies With Type 2 Diabetes: A Nordic Register-Based Cohort Study** | DOI: `10.2337/dc23-0256`
+- **Comparison of tofogliflozin versus glimepiride as the third oral agent added to metformin plus a dipeptidyl peptidase-4 inhibitor in Japanese patients with type 2 diabetes: A randomized, 24-week, open-label, controlled trial (STOP-OB)** | DOI: `10.1111/dom.14059`
+- **A 52-week randomized controlled trial of ipragliflozin or sitagliptin in type 2 diabetes combined with metformin: The N-ISM study** | DOI: `10.1111/dom.14288`
+- **Dapagliflozin doesn\'t increase dietary intake in Japanese** | DOI: `10.1038/s41392-024-01931-z`
+- **The effects of vildagliptin compared with metformin on vascular endothelial function and metabolic parameters: a randomized, controlled trial (Sapporo Athero-Incretin Study 3)** | DOI: `10.1186/s12933-017-0607-6`
+- **Effects of antidiabetic agents on gastrointestinal motility in patients with type 2 diabetes** | DOI: `10.1016/s0016-5085(17)31929-7`
+- **Efficacy and side effect profile of empagliflozin and dapagliflozin in combination therapy: A real-world experience** | DOI: `10.25179/tjem.2021-83764`
+- **Effects of different types of oral glucose-lowering drugs on hepatic fat accumulation and liver function in Japanese subjects with type 2 diabetes mellitus and nonalcoholic fatty liver disease-a randomized, open-label, 3-arm active-control study** | DOI: `10.2337/db18-2050-p`
+- **Effect of acarbose versus sulfonylurea therapy on insulin sensitivity: An insulin clamp study** | DOI: `10.1016/s0011-393x(00)88531-8`
+- **Reduced risk of prostate cancer in a cohort of Lithuanian diabetes mellitus patients** | DOI: `10.1080/13685538.2020.1766013`
+- **A Randomized Controlled Trial of a Mini Low-Carbohydrate Diet and an Energy-Controlled Diet Among Japanese Patients With Type 2 Diabetes** | DOI: `10.14740/jocmr3281w`
+- **Therapeutic efficacy and factors that affect response of rosiglitazone in insulin-resistant type 2 diabetes** | DOI: `10.1016/j.diabres.2004.05.001`
+- **The effects of lees extract of unpolished rice on obesity and type 2 diabetes** | DOI: `10.1186/1476-511x-9-134`
+- **Efficacy and Safety of Mitiglinide in Korean Type 2 Diabetic Patients: Prospective Randomised Multicenter Comparative Phase III Study** | DOI: `10.4093/jkda.2007.31.2.163`
+- **Comparison between adherence to glimepiride/metformin sustained release once-daily vs. Immediate release twice-daily fixed combination therapy in patients with type 2 diabetes using an electronic medication events monitoring system: randomized controlled study** | DOI: `10.2337/dc24-s009`
+- **Clinical Efficacy of Sodium-Glucose Cotransporter 2 Inhibitor and Glucagon-Like Peptide-1 Receptor Agonist Combination Therapy in Type 2 Diabetes Mellitus: Real-World Study** | DOI: `10.4093/dmj.2021.0232`
+- **Empagliflozin (EMPA) increases genital infections but not Urinary Tract Infections (UTIs) in pooled data from four pivotal phase III trials** | DOI: `10.1055/s-0034-1374997`
+- **Efficacy and safety of evoglipitin monotherapy in patients with type 2 diabetes** | DOI: `10.1530/endoabs.49.ep605`
+- **Evaluation of Role of Long-Term Treatment with Metformin in Affecting the Severity of Diabetic Retinopathy in High Risk Individuals Suffering from Type 2 Diabetes Mellitus** | DOI: `10.1016/j.diabres.2012.10.001`
+- **Consistent HbA1c changes with empagliflozin/linagliptin irrespective of body mass index, renal function, or gender** | DOI: `10.1093/eurheartj/ehz486`
+- **Coenzyme Q10 supplementation effects on lipid ratios in women with type 2 diabetes mellitus: A randomized, double-blind clinical trial study** | DOI: `10.3329/bjms.v19i1.43889`
+- **Effect of royal jelly intake on serum glucose, HbA1c, and total antioxidant capacity (TAC) in type 2 diabetic patients: a randomized, double blind clinical trial study** | DOI: `10.1016/j.jcjd.2016.01.003`
+- **Pistachio nut effects on the blood lipid profile in patients with type ii diabetes mellitus: a single-blind randomized crossover controlled clinical trial** | DOI: `10.1900/rds.2014.11.190`
+- **A Comparison of Efficacy among Syrian diabetic patients treated with Empagliflozin versus Dapagliflozin, a Randomized, Triple-blind, Two-period crossover study** | DOI: `10.52711/0974-360x.2023.00755`
+- **Rosiglitazone and metformin in patients with type-2 diabetes mellitus who are inadequately controlled on metformin alone** | DOI: `10.21649/akemu.v11i1.980`
+- **Structured Exercise Regimen in the Prevention of Peripheral Neuropathy in People with Type 2 Diabetes in a Low-Middle Income Country: An Open-Label, Randomized Controlled Trial** | DOI: `10.5603/cd.95618`
+- **Treatment With Evogliptin for Type 2 Diabetes Effectiveness and Safety** | DOI: `10.1007/s00228-019-02685-2`
+- **Clinical evaluation of efficacy of rhubarb supplementation in patients of diabetic nephropathy** | DOI: `10.3390/biom9100551`
+- **Effect of green tea polyphenols on HbA1C in type 2 diabetic patients** | DOI: `10.1007/s00204-023-03562-9`
+- **Efficacy of oral vitamin D on glycated haemoglobin (HbA1c) in type 2 diabetics having vitamin D deficiency - A randomized controlled trial** | DOI: `10.1111/pai.13415`
+- **Effects of δtocotrienol on glycemic control and inflammatory biomarkers in the diabetic patients** | DOI: `10.1182/blood-2022-165694`
+- **Impact of Treviamet®& Treviamet XR®on quality of life besides glycemic control in type 2 DM patients** | DOI: `10.1186/s12902-023-01492-2`
+- **Effect of Dapagliflozin on Serum Uric Acid in Type 2 Diabetes Mellitus patients** | DOI: `10.52711/0974-360x.2022.00839`
+- **Adherence and persistence to basal insulin therapy in standard medical practice in insulin-naive type 2 diabetes patients uncontrolled with oral antidiabetic drugs in Algeria (ADHERE study)** | DOI: `10.7707/hmj.441`
+- **The correlation of insulin resistance with B cell function, metabolic, and hormonal parameters in type 2 diabetic women treated with metformin** | DOI: `10.1161/circulationaha.105.169404`
+- **The efficacy and safety of liraglutide versus placebo in children and adolescents with type 2 diabetes: the ELLIPSE randomized trial results** | DOI: `10.2337/dc24-s014`
+- **Safety and efficacy of switching to biphasic insulin aspart 30/70 (BIAsp 30) under the routine diabetic care in patients with type 2 diabetes: The IMPROVETM observational study in the Gulf region** | DOI: `10.1016/j.ijdm.2010.05.001`
+- **Weight change during diet and exercise interventions among overweight adults with type 2 diabetes: Results of a chart review** | DOI: `10.1111/j.1467-789x.2004.00133.x`
+- **Exploring and resolving the impact of food on postprandial glycemic excursions in a rice-eating population in S. India** | DOI: `10.1002/14651858.cd005105.pub3`
+- **Insulin-sparing effect and severe hypoglycemia with sitagliptin vs. Glimepiride** | DOI: `10.2337/dc14-2441`
+- **Effects of nuts on glycemic control and coronary heart disease risk factors in type 2 diabetes** | DOI: `10.1096/fasebj.24.1_supplement.564.2`
+- **Effect of wheat fiber on glycemic control and CHD risk factors in type 2 diabetes: a randomized controlled crossover study** | DOI: `10.3390/nu5041417`
+- **Effect of nuts on coronary heart disease risk factors in type 2 diabetes** | DOI: `10.1096/fasebj.27.1_supplement.368.5`
+- **Effect of pulses as part of a low glycemic index diet compared to a high fiber diet on HbA1c and blood lipids in type 2 diabetes** | DOI: `10.1096/fasebj.26.1_supplement.117.3`
+- **Elevated fasting insulin levels at baseline predict a poorer hba1c outcome long-term after protein-rich meal replacement in poorly controlled type 2 diabetes patients-a randomized controlled trial** | DOI: `10.1016/j.atherosclerosis.2016.08.018`
+- **Continuous glucose monitoring in insulinexperienced individuals with type 2 diabetes switched to once-weekly insulin icodec versus once-daily comparators in ONWARDS 2 and 4: post-hoc analysis** | DOI: `10.1111/dom.15726`
+- **Effect of once-weekly semaglutide versus thrice-daily insulin aspart, both as add-on to metformin and optimized insulin glargine treatment in participants with type 2 diabetes (SUSTAIN 11): A randomized, open-label, multinational, phase 3b trial** | DOI: `10.1111/dom.14765`
+- **Changes in core foods of individuals with type 2 diabetes because of a nutrition education intervention** | DOI: `10.1016/s0140-6736(20)30925-9`
+- **Risk factors for renal failure: The WHO multinational study of vascular disease in diabetes** | DOI: `10.1007/pl00002939`
+- **The effect of liraglutide as subsequent treatment after short-term intensive insulin therapy on glucose control and βcell function in newly diagnosed type 2 diabetic patients** | DOI: `10.12669/pjms.37.7.4013`
+- **Efficacy and safety of a combination of miglitol, metformin and insulin aspart in the treatment of type 2 diabetes** | DOI: `10.4314/tjpr.v20i10.22`
+- **Clinical effects of liraglutide on diabetes control in Japanese type 2 diabetes mellitus patients** | DOI: `10.1002/dmrr.2827`
+- **Improvement of glycaemic control following 12-week treatment with miglitol in Japanese type 2 diabetics: a double-blind, randomized, placebo- and voglibose-controlled trial** | DOI: `10.2337/diacare.28.1.154`
+- **Additional effects of pioglitazone in the patients with type 2 diabetes treated with biphasic insulin therapy. \[Japanese\]** | DOI: `10.1016/j.diabres.2012.10.001`
+- **The effects of two exercise therapy methods on cardio-metabolic risk factors in diabetic overweight middle-aged females** | DOI: `10.1093/eurheartj/ehx501.p652`
+- **A Study to Assess the Effect of Vitamin D Supplementation on Blood Pressure, Lipid Profile and Anthropometric Measures in Type 2 Diabetes Mellitus Patients** | DOI: `10.1002/hep.29367`
+- **Comparative Efficacy and Safety of Glimepiride-Metformin and Glibenclamide-Metformin Combinations for Uncontrolled Type 2 Diabetes: a Randomized Controlled Trial** | DOI: `10.2337/dc08-9025`
+- **Dapagliflozin and insulin resistance in patients with type 2 diabetes** | DOI: `10.1038/nm.3828`
+- **Efficacy and safety of dapagliflozin in patients with type 2 diabetes on insulin ±metformin regimens** | DOI: `10.2337/dci18-0033`
+- **Comparison Study on Efficacy and Safety of Metformin and Vildagliptin versus Metformin and Glimepiride in Patients with Type 2 Diabetes Mellitus** | DOI: `10.2337/dc08-9025`
+- **Effect of oral hypoglycemic agents on fat distribution and glucose tolerance in non-insulin-dependent diabetes mellitus patients. \[Japanese\]** | DOI: `10.1161/circulationaha.105.169404`
+- **Effect of glucagon-like peptide-1 receptor agonists, sodium-glucose cotransporter-2 inhibitors and their combination on left atrial strain and arterial function** | DOI: `10.1093/eurheartj/ehy339`
+- **Effects of dipeptidyl peptidase-4 inhibitor sitagliptin on coronary atherosclerosis as assessed by intravascular ultrasound in type 2 diabetes mellitus with coronary artery disease** | DOI: `10.1016/j.ijcme.2017.06.005`
+- **Changes in serum levels of liver-related parameters, uric acid, and hemoglobin in patients with type 2 diabetes mellitus under treatment with tofogliflozin-a post-hoc analysis of the UTOPIA study** | DOI: `10.1007/s13340-024-00693-x`
+- **Dose-response, efficacy, and safety of oral semaglutide monotherapy in Japanese patients with type 2 diabetes (PIONEER 9): a 52-week, phase 2/3a, randomised, controlled trial** | DOI: `10.1016/s2213-8587(20)30075-9`
+- **The effects of walking uphill or downhill on dynamic plantar foot pressure in diabetic patients** | DOI: `10.1016/0958-2592(95)90050-0`
+- **Reduction in cardiovascular disease events in patients with type 2 diabetes mellitus treated with a sodium-glucose cotransporter 2 inhibitor versus a dipeptidyl peptidase-4 inhibitor: A real-world retrospective administrative database analysis in Japan** | DOI: `10.1111/jdi.13785`
+- **Ipragliflozin improves glycemic control in Japanese patients with type 2 diabetes mellitus: the BRIGHTEN study** | DOI: `10.1007/s13340-014-0164-0`
+- **Eff ectiveness of Teneligliptin as an Add-on in T2DM Patients not Controlled on Metformin and Glimepiride** | DOI: `10.1038/nrendo.2012.163`
+- **Liraglutide-based therapy shows more prominent effect than conventional insulin therapy to achieve HbA1c target, especially in patients with short duration** | DOI: `10.2337/db18-2297-pub`
+- **Short duration of diabetes should be associated with more prominent effect of liraglutide-titrated from insulin degludec plus liraglutide combination therapy** | DOI: `10.2337/db18-1074-p`
+- **A randomized, double-blind placebo-controlled add-on trial to assess the efficacy, safety, and anti-atherogenic effect of spirulina platensis in patients with inadequately controlled type 2 diabetes mellitus** | DOI: `10.1002/ptr.7674`
+- **Effects of concentrated beetroot juice consumption on glycemic control, blood pressure, and lipid profile in type 2 diabetes patients: randomized clinical trial study** | DOI: `10.1007/s11845-022-03090-y`
+- **The effects of short-acting analogue insulins on body weight in patients with type 2 diabetes mellitus** | DOI: `10.3906/sag-1201-77`
+- **Insulin degludec is superior to sitagliptin in improving glycaemic control in insulin-naïe patients with type 2 diabetes** | DOI: `10.1016/j.pcd.2012.10.072`
+- **Is basal nitric oxide activity of the renal vasculature altered analysis of a randomized controlled trial comparing two combination therapies** | DOI: `10.1681/asn.20213210s1625b`
+- **Identification of subpopulations exhibiting the greatest cardiovascular benefit from long-acting glucagon-like peptide-1 receptor agonists-a combined analysis of large cardiovascular outcome trials** | DOI: `10.2337/db18-1064-p`
+- **Clinical effect of Huazhuo granule in treating type 2 diabetes mellitus combined with nonalcoholic fatty liver (phlegm-dampness accumulating spleen type)** | DOI: `10.53469/jcmp.2025.07(08).29`
+- **Vascular and metabolic effects of ipragliflozin versus sitagliptin (IVS) in type 2 diabetes treated with sulphonylurea and metformin: IVS study** | DOI: `10.1111/dom.15056`
+- **Canagliflozin and risk of skin and soft tissue infections in people with diabetes mellitus and kidney disease in the credence trial** | DOI: `10.1681/asn.20203110s1344a`
+- **Canagliflozin and risk of genital infections and urinary tract infections in people with diabetes mellitus and kidney disease in the credence trial** | DOI: `10.1681/asn.20203110s1343c`
+- **Safety of iGlarLixi in Japanese People with Type 2 Diabetes: A Post-marketing Database Study** | DOI: `10.1007/s12325-025-03135-5`
+- **Efficacy and safety of herbal formulation rich in standardized fenugreek seed extract as add-on supplementation in patients with type 2 diabetes mellitus on sulfonylurea therapy: A 12-week, randomized, double-blind, placebo-controlled, multi-center study** | DOI: `10.4103/pm.pm_260_18`
+- **The initiation of insulin therapy in type 2 diabetic patients treated with oral anti-diabetic drugs: An observational study in multiple institutes across Japan (JDDM27)** | DOI: `10.1007/s13340-012-0073-z`
+- **Cardio-renal protective effects of SGLT2 inhibitors in patients with type 2 diabetes mellitus and severely impaired renal function** | DOI: `10.1093/eurheartj/ehab724.2958`
+- **Effects of 12 weeks high dose vitamin D3 treatment on insulin sensitivity, beta cell function, and metabolic markers in patients with type 2 diabetes and vitamin D insufficiency - a double-blind, randomized, placebo-controlled trial** | DOI: `10.1016/j.metabol.2014.06.008`
+- **Calisthenics versus Pilates training on glycemic control and body fat in overweight individuals with type 2 diabetes mellitus** | DOI: `10.3233/ppr-220688`
+- **Baseline clinical profile and rapid progression to insulin treatment in newly diagnosed diabetic patients over 50 years of age** | DOI: `10.1002/pdi.144`
+- **Real-world experience of treatment individualization based on a fixed-dose combination of gliclazide extended release+ metformin extended-release in type 2 diabetes mellitus** | DOI: `10.5603/dk.a2021.0042`
+- **Effect of chromium on glucose profile in patients with type 2 diabetes mellitus** | DOI: `10.1024/0300-9831.74.3.178`
+- **Effect of chromium supplementation on lipid profile in patients with type 2 diabetes mellitus** | DOI: `10.1024/0300-9831.74.3.178`
+- **A comparative study of efficacy and safety among metformin with sitagliptin, metformin with voglibose, and metformin with glimepiride in patients with type 2 diabetes mellitus** | DOI: `10.22159/ajpcr.2017.v10i12.22050`
+- **Safety and effectiveness of empagliflozin in Japanese patients with type 2 diabetes: final results of a 3-year post-marketing surveillance study** | DOI: `10.1080/14740338.2022.2054987`
+- **Efficacy and safety of combination therapy with anagliptin and metformin hydrochloride in Japanese patients with type 2 diabetes mellitus. \[Japanese\]** | DOI: `10.1016/j.apsb.2019.10.001`
+- **Long-term concomitant administration study of a rapid and short acting insulin secretagogue mitiglinide in combination with an alpha-glucosidase inhibitor voglibose in type 2 diabetes patients -Extension study of phase II/III double blind comparative study. \[Japanese\]** | DOI: `10.1111/j.2040-1124.2010.00082.x`
+- **Concomitant effects of a rapid and short acting insulin secretagogue mitiglinide in type 2 diabetes patients with inadequate control of blood glucose with voglibose monotherapy - Phase II/III double blind comparative study** | DOI: `10.1111/j.2040-1124.2010.00082.x`
+- **Dose-ranging study of anagliptin in Japanese patients with type 2 diabetes - A multi-centre, randomized, placebo-controlled, double-blind, parallel-group study** | DOI: `10.2147/dmso.s54679`
+- **Effects of anagliptin on serum lipids in Japanese patients with type 2 diabetes - A pooled analysis of long-term therapy with anagliptin** | DOI: `10.2147/dmso.s54679`
+- **Efficacy and safety of anagliptin in Japanese patients with type 2 diabetes - A multi-centre, randomized, placebo- and active comparator-controlled, double-blind, parallel-group study. \[Japanese\]** | DOI: `10.1111/dom.12149`
+- **Efficacy and safety of long-term monotherapy with anagliptin in Japanese patients with type 2 diabetes - A multi-centre, randomized, open-label, parallel-group study (Administered before meals vs. after meals)** | DOI: `10.2147/dmso.s54679`
+- **Comparison of insulin analogue regimens in people with type 2 diabetes mellitus in the PREFER Study: A randomized controlled trial** | DOI: `10.1111/j.1463-1326.2008.00915.x`
+- **SUN-LB015 Baseline Characteristics and Effects on CV and Kidney Outcomes with Linagliptin Versus Placebo, Across GFR Categories in CARMELINA** | DOI: `10.1210/js.2019-sun-lb015`
+- **Vegetarian diet improves insulin secretion and physical fitness more than conventional diabetic diet in subjects with type 2 diabetes after aerobic exercise program** | DOI: `10.2337/dci19-0014`
+- **133-OR: Effects of Empagliflozin on Liver Fat Content in Type 2 Diabetes: The EMLIFA001 Trial** | DOI: `10.2337/db19-133-or`
+- **Empagliflozin effectively reduces liver fat content in type 2 diabetes** | DOI: `10.1055/s-0039-1688168`
+- **8-LB: Outcomes of Type 2 Diabetes (T2D) Clustering Replicated in the DEVOTE Trial** | DOI: `10.2337/db19-8-lb`
+- **The effect of SGLT2 inhibitors on silent myocardial ischemia** | DOI: `10.1093/ehjci/ehaa946.1446`
+- **Efficacy and safety of sitagliptin add-on therapy in Japanese patients with type 2 diabetes on insulin monotherapy** | DOI: `10.1007/s13340-013-0109-z`
+- **Safety and efficacy of switching thrice-daily treatment with NovoRapid 70Mix (BIAsp70) to BIAsp70 before breakfast and lunch and NovoRapid 30Mix (BIAsp30) before dinner in patients with type 2 diabetes: Subgroup analysis of a phase III trial** | DOI: `10.1007/s13340-011-0038-7`
+- **Improved glycemic control and reduced body weight with exenatide twice daily: a 24-week, double-blind, randomized, placebo-controlled, parallel, phase 3 study in japanese patients with type 2 diabetes** | DOI: `10.2337/dc12-0413`
+- **Effect Of Dapagliflozin On Lipid Profile In Type-2 Diabetes Mellitus** | DOI: `10.1056/nejmoa1812389`
+- **Intensified insulin therapy of type-2 diabetes mellitus: pre- or post-prandial injection of insulin glulisine in obese patients?** | DOI: `10.2337/dc12-2480`
+- **Effects of Voglibose and Glimepiride on Body weight in Patients with Type 2 Diabetes** | DOI: `10.1016/s0168-8227(14)70482-6`
+- **Clinical characteristics, treatment patterns, and persistence in individuals with type 2 diabetes initiating a glucagon-like peptide-1 receptor agonist: A retrospective analysis of the Diabetes Prospective Follow-Up Registry** | DOI: `10.1111/dom.15038`
+- **Sedentary behavior compensation to 1‐ear exercise RCT in patients with type 2 diabetes** | DOI: `10.1002/14651858.cd013340`
+- **The efficacy of treating newly diagnosed type 2 diabetes with insulin glargine combined with Saxagliptin and their effects on function of βpancreatic cells** | DOI: `10.1097/md.0000000000002961`
+- **Study of lobeglitazone for evaluation of safety and efficacy with active comparator pioglitazone in Indian T2DM patients: a randomized phase III trial (sensitize India)** | DOI: `10.3390/ijms20205055`
+- **Comparative Study of Repaglinide with Glibenclamide in the Management of Type 2 Diabetes Mellitus** | DOI: `10.2337/dc08-9025`
+- **Effects of different exercise modalities on metabolic control and cellular insulin signaling in patients with type 2 diabetes** | DOI: `10.1016/s0025-6196(11)62331-8`
+- **Consistent Benefits of Dapagliflozin on Kidney End Points Defined by Different eGFR Thresholds: a Prespecified Analysis From DAPA-CKD** | DOI: `10.1681/asn.20223311s1848a`
+- **Improved functional status following the aquatic physical exercise for arthritis and diabetes (APEXD) study** | DOI: `10.1016/j.jcjd.2014.07.176`
+- **Prevalent Metformin Use in Adults With Diabetes and the Incidence of Long COVID: An EHR-Based Cohort Study From the RECOVER Program** | DOI: `10.2337/dca24-0032`
+- **Incidence of adjudicated acute pancreatitis across the albiglutide phase 3 clinical program** | DOI: `10.4158/ep-2018-0507`
+- **Real-world Clinical Outcomes Among Patients With Type 2 Diabetes Receiving Canagliflozin at a Specialty Diabetes Clinic: Subgroup Analysis by Baseline HbA\<sub\>1c\</sub\> and Age** | DOI: `10.1159/000539371`
+- **Basic and clinical science posters: new insulins, technology, therapies and treatment** | DOI: `10.1111/dme.17_13048`
+- **Once-weekly dulaglutide (DU) vs. insulin glargine in the control of fasting serum glucose and hypoglycaemia rate in the first 20 weeks in patients with type 2 diabetes mellitus on metformin and glimepiride** | DOI: `10.2337/dci18-0033`
+- **Clinical effect of Sanhuang Jiedu Tongluo Decoction treating type 2 diabetes mellitus with dampness heat and dampness** | DOI: `10.1155/2022/9449427`
+- **Renal efficacy of exenatide in diabetic kidney disease patients with different baseline renal function** | DOI: `10.1002/hep.29367`
+- **The Multicenter, Open-Label, Observational LEAD-Ph Study: Real-World Safety and Effectiveness of Liraglutide in Filipino Participants with Type 2 Diabetes** | DOI: `10.15605/jafes.033.02.02`
+- **Safety and efficay of Repaglinide compared with Glibenclamide in the management of type 2 diabetic Pakistani patients** | DOI: `10.2165/00128413-199309130-00020`
+- **Comparison of the enhanced insulin treatments for newly-diagnosed type 2 diabetes** | DOI: `10.4274/jcrpe.v2i1.46`
+- **Activation of glucagon-like peptide-1 receptor ameliorates cognitive decline in type 2 diabetes mellitus through a metabolism-independent pathway** | DOI: `10.1161/jaha.120.020734`
+- **Efficacy and safety of empagliflozin in combination with insulin in Chinese patients with type 2 diabetes and insufficient glycaemic control: A phase III, randomized, double-blind, placebo-controlled, parallel study** | DOI: `10.1111/dom.15041`
+- **Efficacy and safety of insulin degludec biosimilar B01411 versus originator insulin degludec in Chinese patients with type 2 diabetes inadequately controlled on oral antidiabetic drugs: a multicenter, randomized, open-label, phase 3 study** | DOI: `10.1080/03007995.2024.2401096`
+- **Better glycemic control and less weight gain with once weekly dulaglutide vs. once daily insulin glargine, both combined with pre-meal insulin lispro, in type 2 diabetes patients (AWARD-4)** | DOI: `10.1016/j.jcjd.2014.07.136`
+- **Continuous glucose monitoring in patients treated with once-weekly dulaglutide or glargine, both combined with prandial insulin lispro (award-4 trial substudy)** | DOI: `10.2337/dci18-0033`
+- **Unterstüzende Liraglutidbehandlung von Patienten mit persistierendem oder rezidivierendem Diabetes mellitus Typ  nach bariatrischer Operation** | DOI: `10.1007/s11428-019-00548-z`
+- **Effects of a Mediterranean eating plan on the need for glucose-lowering medications in participants with type 2 diabetes: A subgroup analysis of the PREDIMED trial** | DOI: `10.2337/dc18-2475`
+- **Efficacy and safety of once daily liraglutide versus twice daily exenatide in type 2 diabetic patients in Qatar: an observational study** | DOI: `10.1111/jphs.12240`
+- **The impact of toll-like receptor 4 gene polymorphism on therapeutic response to metformin at the crossroad type two diabetes mellitus patients** | DOI: `10.54615/2231-7805.109081`
+- **Insulin-Like Growth Factor Binding Protein-7 Predicts Cardiovascular and Renal Outcomes in Patients with Type 2 Diabetes and Chronic Kidney Disease: The Credence Trial** | DOI: `10.1016/s0735-1097(22)01290-6`
+- **Effects of carbohydrate reduction program and telemonitoring on glycosylated hemoglobin in patients with poorly controlled type 2 diabetes: a randomized controlled trial** | DOI: `10.1007/s11096-015-0210-4`
+- **Relationship between glycaemic control and cognitive function in patients with type 2 diabetes at elevated cardiovascular risk** | DOI: `10.1016/j.jalz.2014.07.101`
+- **Efficacy of Stability Trainer Exercises versus Wobble Board Exercises in Balance Re-Education in Patients with Diabetic Neuropathy** | DOI: `10.5958/0973-5674.2017.00064.8`
+- **The PROROK project results after 6 months of intervention (Prospective observation project focusing on the relevance of the difference between fasting blood glucose levels and postprandial blood glucose for estimation of success of type 2 diabetes therapy). \[Czech\]** | DOI: `10.12968/hmed.2006.67.10.22057`
+- **Low fasting glucose-to-estimated average glucose ratio was associated with superior response to insulin degludec/aspart compared with basal insulin in patients with type 2 diabetes** | DOI: `10.1111/jdi.13634`
+- **Effect of vitamin D supplementation in type 2 diabetes patients with pulmonary tuberculosis** | DOI: `10.1016/j.dsx.2012.02.021`
+- **High energy breakfast diet is an effective strategy for weight loss and reduction of the total daily insulin dose in type 2 diabetes** | DOI: `10.1161/cir.0b013e31828124ad`
+- **Association Between Change in Accelerometer-Measured and Self-Reported Physical Activity and Cardiovascular Disease in the Look AHEAD Trial** | DOI: `10.2337/dc21-1206`
+- **Effects of Low-Dose w-3 Fatty Acid Substitution in Type-2 Diabetes Mellitus with Special Reference to Oxidative Stress - A Prospective Preliminary Study** | DOI: `10.2337/dci19-0014`
+- **Use of once-daily oral semaglutide and associated clinical outcomes among adults with type 2 diabetes in routine clinical practice in Canada: A multicentre, prospective real-world study (PIONEER REAL Canada)** | DOI: `10.1111/dom.15493`
+- **Effects of lifestyle modifications on lipid profile in patients of type 2 diabetes mellitus-a prospective study** | DOI: `10.5455/njppp.2022.12.11413202126112021`
+- **Robust dose-dependent glucose lowering and body weight (BW) reductions with the novel oral formulation of semaglutide in patients with early type 2 diabetes (T2D)** | DOI: `10.2337/dci22-0034`
+- **Chinese herbal formulation is safe and effective for type 2 diabetes** | DOI: `10.1111/fct.12068`
+- **Esaxerenone (CS-3150) in Patients with Type 2 Diabetes and Microalbuminuria (ESAX-DN): Phase 3 Randomized Controlled Clinical Trial** | DOI: `10.2337/dci22-0027`
+- **Comparative study of effect of alpha glucosidase inhibitors-miglitol, acarbose and voglibose on postprandial hyperglycemia and glycosylated hemoglobin in type-2 diabetes mellitus** | DOI: `10.4103/0973-3930.32173`
+- **Sulphonylureas versus metformin and the risk of ventricular arrhythmias among people with type 2 diabetes: A population-based cohort study** | DOI: `10.1111/dom.15000`
+- **A Comparison of the Efficacy of Dapagliflozin Metformin Versus Sitagliptin Metformin: in Newly Diagnosed Type 2 Diabetes** | DOI: `10.53350/pjmhs221610459`
+- **Study of Efficacy and Safety of Sitagliptin in Patients with Type 2 Diabetes Treated with Combination of Insulin and Metformin** | DOI: `10.2337/dc08-9025`
+- **Comparative analysis between sodium-glucose Co-transporter 2 inhibitors and biguanides as add-on medications in patients with type 2 diabetes mellitus receiving dipeptidyl peptidase 4 inhibitors-results from analysis of real-world clinical database. \[Japanese\]** | DOI: `10.3390/ph14020122`
+- **Sodium-glucose co-transporter 2 inhibitor therapy reduces the administration frequency of anti-vascular endothelial growth factor agents in patients with diabetic macular oedema with a history of anti-vascular endothelial growth factor agent use: A cohort study using the Japanese health insurance claims database** | DOI: `10.1111/dom.15454`
+- **EFFECT OF FISH LIVER OIL AND PUMPKIN SEED OIL AGAINST TYPE II DIABETES. A RANDOMIZED CONTROL TRIAL** | DOI: `10.1007/s13197-013-1247-9`
+- **Intervention of insulin resistance at two stages in the evolution of type 2 diabetes** | DOI: `10.1002/hep.25762`
+- **248-OR: Empagliflozin and Cardiorenal Outcomes in Patients with Nonproteinuric Kidney Disease in the EMPA-REG OUTCOME Trial** | DOI: `10.2337/db19-248-or`
+- **Consistent cardiovascular (CV) benefit of empagliflozin over the spectrum of CV risk factor control in EMPA-REG OUTCOME** | DOI: `10.1016/j.metabol.2019.12.071`
+- **Composite retinopathy outcome in patients treated with empagliflozin versus placebo in the EMPA-REG OUTCOME trial** | DOI: `10.1055/s-0039-1688261`
+- **Efficacy of sulfonylureas plus alpha-glucosidase inhibitor plus bedtime NPH insulin combination therapy in type II diabetic patients with secondary failure using sulfonylureas. \[Japanese\]** | DOI: `10.2337/dc08-9025`
+- **Effect of single dose of insulin glargine/lixisenatide fixed-ratio combination (iglarlixi) on postprandial glucodynamic response in Japanese patients with type 2 diabetes mellitus** | DOI: `10.1111/dom.13757`
+- **Comparative effects of metformin in combination with glimepiride and glibenclamide on lipid profile in Indian patients with type 2 diabetes mellitus** | DOI: `10.2337/db09-9028`
+- **Monotherapy with metformin or glimepiride and changes in serum sialic acid in type 2 diabetes mellitus** | DOI: `10.1177/1474651411412863`
+- **Linagliptin and cardiorenal outcomes in Asians with type 2 diabetes mellitus and established cardiovascular and/or kidney disease: subgroup analysis of the randomized CARMELINA((R)) trial** | DOI: `10.2337/dci22-0034`
+- **Long-term safety and efficacy of exenatide twice daily in Japanese patients with suboptimally controlled type2 diabetes** | DOI: `10.1155/2020/3920196`
+- **Pakistan Insulin Study (Pins) Glycemic Variability and Efficacy of New Insulins in Type 2 Diabetes** | DOI: `10.53555/jptcp.v31i6.6738`
+- **Reduction and residual proteinuria are therapeutic targets in type 2 diabetes with overt nephropathy: a post hoc analysis (ORIENT-proteinuria)** | DOI: `10.1093/ndt/gft249`
+- **The effect of one year treatment with GLP1-RA, SGLT2i and their combination on plasma levels of oxidative and antioxidative biomarkers** | DOI: `10.1093/eurheartj/ehab724.2959`
+- **Effects of glucagon like peptide-1 receptor agonists and their combination with sodium-glucose cotransporter-2 inhibitors on myocardial deformation and work index in type 2 diabetes: 1 year follow up** | DOI: `10.1093/ehjci/jeaa356.143`
+- **Glucagon like peptide-1 receptor agonists and their combination with sodium-glucose cotransporter-2 inhibitors improve myocardial deformation and work index in type-2 diabetes after 12-month treatment** | DOI: `10.1093/ehjci/ehaa946.0115`
+- **Sodium-glucose cotransporter-2 inhibitors and their combination with glucagon like peptide-1 receptor agonists improve endothelial glycocalyx and arterial stiffness in type-2 diabetes** | DOI: `10.1093/ehjci/ehaa946.2376`
+- **4324Effects of the glucagon like peptide-1 receptor agonist on arterial stiffness, LV myocardial deformation and oxidative stress in newly diagnosed type 2 diabetes after 6-month treatment** | DOI: `10.1093/eurheartj/ehy563.4324`
+- **Effects of sodium-glucose contrasporter-2 inhibitors and glucagon-like peptide-1 receptor agonists on vascular function and liver steatosis in diabetes** | DOI: `10.1093/eurheartj/ehad655.2560`
+- **Effect of glucagon-like peptide-1 receptor agonists, sodium-glucose cotransporter-2 inhibitors and their combination on markers of neurohumoral activation and left atrial strain** | DOI: `10.1093/eurheartj/ehad655.2571`
+- **P2522The combined treatment with glucagon like peptide-1 analogues and sodium-glucose co-transporter 2 causes a greater improvement of arterial stiffness than each treatment alone in type 2 diabetes** | DOI: `10.1093/eurheartj/ehy565.p2522`
+- **P4991Effects of the glucagon like peptide-1 receptor analogue, sodium-glucose co-transporter 2 and their combination on myocardial work index and vascular function in diabetes after 3-month treatment** | DOI: `10.1093/eurheartj/ehz746.0169`
+- **Reduction in weight and adiposity indices and kidney outcomes with empagliflozin in patients with type 2 diabetes (T2D): results from the EMPA-REG OUTCOME®trial** | DOI: `10.1055/s-0038-1641827`
+- **Effectiveness and safety of Banabamin tablet containing extract from Banaba in patients with mild type 2 diabetes** | DOI: `10.31003/uspnf_m7968_03_01`
+- **Comparison of the clinical effect of acarbose and voglibose on blood glucose in non-obese, non-insulin dependent diabetes mellitus. \[Japanese\]** | DOI: `10.1002/dmrr.2827`
+- **Comparison of the clinical effects of acarbose and voglibose on glycemic control in subjects with type 2 diabetes mellitus. \[Japanese\]** | DOI: `10.2337/dc11-s011`
+- **Step-up treatment with premixed insulin lispro-50/50 vs. Premixed human insulin aspart-70/30: a randomized trial in type 2 diabetic patients** | DOI: `10.2337/dci18-0033`
+- **Renal outcomes with sodium-glucose cotransporter 2 inhibitors in Japanese people with grade 3 chronic kidney disease and type 2 diabetes: Analysis of medical administrative databases** | DOI: `10.1111/dom.15461`
+- **Complementary Therapeutic Effect of Polyherbal Supplement (Gasca D™ on Newly Diagnosed Type 2 Diabetic Patients on Lifestyle Modification: A Randomised Cohort Clinical Trial** | DOI: `10.4314/jopat.v20i1.6`
+- **The ABCs outcomes after using a smart phone-based lifestyle application in subjects with type 2 diabetes** | DOI: `10.1002/14651858.cd001871.pub4`
+- **The effect of rosiglitazone on serum lipoprotein(a) levels in Korean patients with type 2 diabetes mellitus** | DOI: `10.1016/s0026-0495(03)00033-7`
+- **The Effects of Planned Exercise Program on Metabolism, Cardiopulmonary Function and Exercise Compliance in Type 2 Diabetes Mellitus Patients** | DOI: `10.4040/jkan.2001.31.1.20`
+- **Insulin therapy in patients with type 2 diabetes mellitus: Shared care versus secondary outpatient care in The Netherlands** | DOI: `10.1093/eurheartj/ehz486`
+- **Pinto beans as part of a normal diet do not improve glycemic control in adults with type 2 diabetes** | DOI: `10.1096/fasebj.25.1_supplement.971.24`
+- **Effect of Sodium Glucose Co Transporter 2 Inhibitor on Proteinuria in Diabetic Patients** | DOI: `10.1016/j.kint.2019.02.030`
+- **Study of Anti-Inflammatory Effects of Dapagliflozin As Add on Treatment Versus Metformin with Placebo Among Diabetic Patients in Thi-Qar City, South of Iraq** | DOI: `10.31838/ijpr/2020.sp2.572`
+- **Burning Mouth Syndrome and Salivary Brain Derived Neurotrophic Factor Level in Type 2 Diabetes Mellitus Patients on Metformin Monotherapy and on Combination of Metformin and Glibenclamide (A Comparative Study)** | DOI: `10.37506/ijfmt.v14i2.10552`
+- **Gingko biloba extract improves the lipid profile, inflammatory markers, leptin level and the antioxidant status of T2DM patients poorly responding to metformin: A double- blind, randomized, placebo-controlled trial** | DOI: `10.1590/s2175-97902022e19516`
+- **Comparison of Efficacy and Safety of Sitagliptin and Glimepiride in Treatment of Type 2 Diabetes Mellitus** | DOI: `10.1056/nejmoa1504720`
+- **Therapeutic outcome of dapagliflozin on various parameters in non-alcoholic fatty liver disease (NAFLD) patients** | DOI: `10.1007/s13410-021-00980-2`
+- **P2518Arrythmias and heart rate increase in the LEADER trial and relation to risk of cardiovascular events** | DOI: `10.1093/eurheartj/ehy565.p2518`
+- **#1704957 Tirzepatide Improves Health-Related Quality of Life in Participants With Obesity or Overweight and Type 2 Diabetes: Results From Phase 3 SURMOUNT-2 Trial** | DOI: `10.1016/j.eprac.2024.03.263`
+- **Effect of chromium supplementation on hair chromium concentration and diabetic status** | DOI: `10.1016/s0271-5317(85)80028-2`
+- **Pioglitazone monotherapy improves daily plasma glucose and insulin concentrations in type 2 diabetic subjects: a double-blind, placebo-controlled trial** | DOI: `10.1016/s1262-3636(07)70116-7`
+- **Intermittent High Intensity Exercise Associated with Drugs in Patients with Type 2 Diabetes** | DOI: `10.1097/hep.0000000000000323`
+- **Prospective association of glul rs10911021 with cardiovascular morbidity and mortality among individuals with type 2 diabetes: the look Ahead study** | DOI: `10.2337/db15-0890`
+- **Metabolic effects of chronic low glycemic index diet in type 2 diabetes** | DOI: `10.1152/physrev.00019.2009`
+- **Association of Intensive Lifestyle Intervention for Type 2 Diabetes with Labor Market Outcomes** | DOI: `10.1001/jamainternmed.2023.3283`
+- **347-OR: The Long-Term Effects of an Intensive Lifestyle Intervention on Medicare Outcomes** | DOI: `10.1016/s0140-6736(20)30367-6`
+- **Comprehensive Multiple Risk Factor Control in Type 2 Diabetes to Mitigate Heart Failure Risk: Insights From a Prospective Cohort Study** | DOI: `10.2337/dc24-0864`
+- **Effect of rosiglitazone on urinary monocyte chemoattractant protein-1 in patients with diabetic nephropathy** | DOI: `10.1046/j.1523-1755.2000.00214.x`
+- **Effects of glucagon-like peptide-1 receptor agonists on glucose excursion and inflammation in overweight or obese type 2 diabetic patients** | DOI: `10.4239/wjd.v14.i8.1280`
+- **Clinical research of acupuncture in the treatment of diabetic nephropathy** | DOI: `10.1155/2018/3128378`
+- **Study of influence of integrated traditional Chinese and Western medicine on the inflammation factors of patients with initial obesity type 2 diabetes** | DOI: `10.1038/s41573-020-00114-z`
+- **Sodium-glucose cotransporter-2 inhibitor in risk of sepsis/septic shock among patients with type 2 diabetes mellitus-a retrospective analysis of nationwide medical claims data** | DOI: `10.1007/s00210-023-02685-1`
+- **Effectiveness and tolerability of vildagliptin plus metformin compared with other oral dual antidiabetes agents in different baseline hba1c patients with type 2 diabetes-a real-world study (China PDS)** | DOI: `10.2337/db18-929-p`
+- **The effect of metformin combined with sitagliptin on type 2 diabetes mellitus and the islets function** | DOI: `10.2337/dc22-s002`
+- **Health Care Utilization and Costs Associated With Empagliflozin in Older Adults With Type 2 Diabetes** | DOI: `10.2337/dc24-0270`
+- **Different effects of thiazolidinediones on cardiovascular events among type 2 diabetic patients implanted with bare metal stents: A nationwide study** | DOI: `10.6890/ijge.202005_14(2).0004`
+- **Thiazolidinediones and cardiovascular events in patients with type 2 diabetes mellitus: A retrospective cohort study of over 473000 patients using the national health insurance database in Taiwan** | DOI: `10.1155/2017/6404638`
+- **Comparing a daily versus weekly titration algorithm in people with type 2 diabetes switching from basal insulin to iGlarLixi in the LixiLan ONE CAN randomized trial** | DOI: `10.1111/dom.14787`
+- **Non-alcoholic fatty liver disease (NAFLD) in patients with type 2 diabetes mellitus (T2DM)** | DOI: `10.1016/j.jhep.2014.12.012`
+- **Effect of Nigella Sativa Oil Extract on Leptin and Adiponectin in Type 2 Diabetic Patients: a Randomized, Double Blind, Placebo controlled Clinical Trial** | DOI: `10.3390/antiox2040293`
+- **Effects of Nigella sativa L. seed oil in type II diabetic patients: a randomized, double-blind, placebo - Controlled clinical trial** | DOI: `10.1016/j.phymed.2014.02.006`
+- **The effect of n-fatty acid (omega 3) on serum visfatin concentration in patients with type2 diabetes** | DOI: `10.29252/jmj.10.1.26`
+- **Troglitazone in combination with sulfonylurea restores glycemic control in patients with type 2 diabetes** | DOI: `10.2337/diacare.21.9.1462`
+- **Real-world risk of cardiovascular diseases in patients with type 2 diabetes associated with sodium-glucose cotransporter 2 inhibitors in comparison with metformin: A propensity score-matched model analysis in Japan** | DOI: `10.1111/jdi.14062`
+- **Adherence and treatment discontinuation of oral semaglutide and once-weekly semaglutide injection at 12 month follow-up: Japanese real-world data** | DOI: `10.1111/jdi.14265`
+- **The effect of a three year exercise intervention on glycaemic control in patients with type 2 diabetes** | DOI: `10.1016/j.jsams.2009.10.442`
+- **Efficacy and Safety of Glimepiride: a Novel Sulfonylurea Drug compared with Gliclazide in the Treatment of Type 2 Diabetes Mellitus: an Open , Randomized Comparative Multi - Center Clinical Study** | DOI: `10.1592/phco.24.6.606.34752`
+- **Sodium-Glucose Cotransporter-2 Inhibitors, Dulaglutide, and Risk for Dementia A Population-Based Cohort Study** | DOI: `10.1161/cir.0000000000001184`
+- **Accelerated insulin pk and improved glycemic control in T2DM patients by coinjection of prandial insulin with hyaluronidase** | DOI: `10.2337/dc10-1892`
+- **Laps-exendin-4 (HM11260C) significantly enhances insulin secretion and βcell responsiveness in subjects with type 2 diabetes mellitus (T2DM)** | DOI: `10.1093/qjmed/hcw081`
+- **Albiglutide provides effective glycemic lowering across diabetes duration subgroups** | DOI: `10.1093/eurheartj/ehz486`
+- **A double-blind randomized study comparing the effects of continuing or not continuing rosiglitazone + metformin therapy when starting insulin therapy in people with Type 2 diabetes** | DOI: `10.1111/j.1464-5491.2007.02141.x`
+- **Targeting postprandial hyperglycemia in patients with type 2 diabetes: nateglinide vs acarbose** | DOI: `10.2337/dc08-9025`
+- **United Kingdom prospective diabetes study (UKPDS) 13: Relative efficacy of randomly allocated diet, sulphonylurea, insulin, or metformin in patients with newly diagnosed non-insulin dependent diabetes followed for three years** | DOI: `10.1136/bmj.310.6972.83`
+- **Metformin Impairs the Cardiorespiratory Fitness Adaptation to High-Intensity Power Training in Older Adults With Type 2 Diabetes: Results From the GREAT2DO Randomised Controlled Trial** | DOI: `10.1016/j.hlc.2022.06.010`
+- **Canagliflozin (CANA) improves glycemic control and reduces body weight and blood pressure (BP) in patients with type 2 diabetes mellitus (T2DM) on metformin (MET) with or without other antihyperglycemic agents (AHAS)** | DOI: `10.1111/nyas.12852`
+- **Comparison between acarbose and glibenclamide in the treatment of diabetes mellitus type 2. \[German\]** | DOI: `10.2337/diacare.28.1.154`
+- **Acupuncture in diabetic peripheral neuropathy-neurological outcomes of the randomized acupuncture in diabetic peripheral neuropathy trial** | DOI: `10.4239/wjd.v14.i12.1813`
+- **Contrasting Three Non-hypoglycemic Antidiabetic Drug Effects on Glycemic Control in Newly Diagnosed Type II Diabetes Mellitus: An Experimental Study** | DOI: `10.3889/oamjms.2022.8631`
+- **Safety of Metformin in Patients with Chronic Obstructive Pulmonary Disease and Type 2 Diabetes Mellitus** | DOI: `10.3109/15412555.2014.898052`
+- **Empagliflozin versus sitagliptin for ameliorating intrahepatic lipid content and tissue-specific insulin sensitivity in patients with early-stage type 2 diabetes with non-alcoholic fatty liver disease: A prospective randomized study** | DOI: `10.1111/dom.15006`
+- **Effects of the SGLT2 inhibitor ipragliflozin and metformin on hepatic steatosis and liver fibrosis: Sub-analysis of a randomized controlled study** | DOI: `10.1111/dom.16198`
+- **Comparison between liraglutide and sitagliptin effects on cardiac function in diabetic patients with renal failure** | DOI: `10.1093/eurheartj/ehz486`
+- **Effects of once-weekly dulaglutide on glycemic control and renal function in patients with advanced-stage diabetic nephropathy** | DOI: `10.5812/numonthly.55058`
+- **Dissimilar effects of anagliptin and sitagliptin on lipoprotein subclass in standard or strong statin-treated patients with type-2 diabetes mellitus: A subanalysis of the reason (randomized evaluation of anagliptin versus sitagliptin on low-density lipoprotein cholesterol in diabetes) trial** | DOI: `10.3390/jcm9010093`
+- **Study on nutritional behavior of patients suffering from type 2 diabetes mellitus and changes caused by the participation of a motion intervention** | DOI: `10.1016/s0261-5614(13)60489-6`
+- **Renoprotective effect of additional sodium-glucose cotransporter 2 inhibitor therapy in type 2 diabetes patients with rapid decline and preserved renal function** | DOI: `10.1111/jdi.13795`
+- **Incidence of urinary tract infections in patients with type 2 diabetes mellitus receiving ertugliflozin, placebo or active comparator** | DOI: `10.2147/dddt.s50773`
+- **The efficacy of topical citrullus colocynthis oil on patients with painful diabetic neuropathy; randomized controlled trial** | DOI: `10.1155/2019/2091960`
+- **Clinical Impact of ITCA 650, a Novel Drug-Device GLP-1 Receptor Agonist, in Uncontrolled Type 2 Diabetes and Very High Baseline HbA\<sub\>1c\</sub\>: The FREEDOM-1 HBL (High Baseline) Study** | DOI: `10.1111/ejn.14115`
+- **Role of cumin in management of type 2 diabetes mellitus with respect to its antidiabetic and antioxidant property** | DOI: `10.26452/ijrps.v11i3.2622`
+- **Effect of cinnamon supplementation on fasting blood glucose and insulin resistance in patients with type 2 diabetes** | DOI: `10.3390/nu9090991`
+- **AMELIORATING EFFECT OF TURMERIC ON KIDNEY FUNCTION IN PATIENTS WITH TYPE 2 DIABETES MELLITUS** | DOI: `10.1038/s41573-021-00233-1`
+- **Assessing the Long-Term Cardiovascular Effects of Emerging Antidiabetic Medications in Type 2 Diabetes Patients** | DOI: `10.1056/nejmoa072761`
+- **Insulin degludec has lower hypoglycemia risk than insulin glargine U100 in older people with type 2 diabetes (T2D)** | DOI: `10.2337/db18-107-or`
+- **Better postprandial glucose (PPG) control with biochaperone combo (bc combo) than with lispro mix25 (LMX) or separate glargine and lispro (G+l) administrations in subjects with type 2 diabetes (T2DM)** | DOI: `10.2337/db18-1001-p`
+- **Randomized Controlled Feasibility Trial of Late 8-Hour Time-Restricted Eating for Adolescents With Type 2 Diabetes** | DOI: `10.1016/j.jand.2023.10.012`
+- **The effects of dapagliflozin on kidney and cardiovascular outcomes in patients with chronic kidney disease with and without heart failure** | DOI: `10.1038/s41574-020-0392-2`
+- **Selonsertib in Patients with Diabetic Kidney Disease: A Phase 2b Randomized Active Run-In Clinical Trial** | DOI: `10.7150/ijbs.101548`
+- **Consistent Kidney Benefits With Semaglutide vs. Placebo Regardless of Baseline Urine Albumin Creatinine Ratio in Subjects With Type 2 Diabetes at High Cardiovascular Risk: a Post Hoc Analysis of SUSTAIN 6** | DOI: `10.1681/asn.20223311s1676c`
+- **Dapagliflozin reduces albuminuria on top of renin-angiotensin system blockade in hypertensive diabetic patients** | DOI: `10.1007/s12467-015-0048-3`
+- **Fp485effects of Ertugliflozin Treatment over 2 Years on Measures of Renal Function** | DOI: `10.1093/ndt/gfz106.fp485`
+- **HOMA-S is associated with greater HbAreduction with a GLP-1 analogue in patients with type 2 diabetes** | DOI: `10.1055/s-0032-1309046`
+- **Glimepiride use is associated with reduced cardiovascular mortality in patients with type 2 diabetes and chronic heart failure: a prospective cohort study** | DOI: `10.1093/eurjpc/zwac312`
+- **Factors Influencing Insulin Adherence among Outpatients with Type 2 Diabetes Mellitus and the Impact of Pharmaceutical Intervention: A Randomized Clinical Trial** | DOI: `10.1155/2024/5518977`
+- **Comparison of the efficacy of dapagliflozin and linagliptin in the treatment of type 2 diabetes patients with normal body mass index and poor metformin monotherapy** | DOI: `10.1142/s2575900024500058`
+- **A clinic study in the effect of Lycium barbarum L. on antioxidixing reaction in the patients with diabetic retinopathy** | DOI: `10.1155/2018/7943212`
+- **Clinical efficacy of integrated Chinese and western medicine therapy on peripheral neuropathy of type 2 diabetes** | DOI: `10.1038/nrdp.2016.76`
+- **Relation between the TRIB3 Gln84Arg genetic variation and vascular complications in type 2 diabetes: an analysis of a 2 × factorial randomised controlled trial** | DOI: `10.1016/s2213-8587(16)30359-x`
+- **A Comparative Pharmacovigilance Analytical Research Study on the Glycaemic Stabilisation Rate and Safety Levels, Between Metformin Monotherapy and Combination Therapies, Among Type II Diabetic Patients** | DOI: `10.1111/j.1742-1241.2011.02867.x`
+- **Glycemic control and cardiovascular outcomes in type 2 diabetes** | DOI: `10.1056/nejmoa1414266`
+- **Investigating the effect of empagliflozin on renal function index and the level of hemoglobin A1c (HbA1c) in patients with type 2 diabetes** | DOI: `10.1093/eurheartj/ehz486`
